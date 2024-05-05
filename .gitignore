@@ -1,0 +1,10 @@
+# Ignore node_modules directory
+node_modules/
+
+# Ignore .plasmo directory (if it contains generated files)
+.plasmo/
+
+# Ignore any compiled or built files
+/build/
+/dist/
+/out/
